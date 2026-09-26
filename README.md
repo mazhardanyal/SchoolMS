@@ -2,7 +2,7 @@
 
 A full-stack school management platform for handling students, teachers, attendance, and fees.
 
-## 📌 Project Statuswiofowieqfwoie
+## 📌 Project Statu Witg Rge nefiwhhfidsa
 🚧 In active development
 
 ## 🏗️ Tech Stack
