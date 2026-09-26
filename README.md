@@ -6,10 +6,12 @@ A full-stack school management platform for handling students, teachers, attenda
 🚧 In active development
 
 ## 🏗️ Tech Stack
-| Layer     | Technology |
-|-----------|------------|
-| Backend   | TBD        |
-| Frontend  | TBD        |
-| Database  | TBD        |
+
+| Layer     | Technology                     |
+|-----------|--------------------------------|
+| Backend   | Node.js + Express              |
+| Frontend  | React (Vite)                   |
+| Database  | MongoDB (Mongoose)             |
+| Auth      | JWT                            |
 
 ## 📁 Project Structure
