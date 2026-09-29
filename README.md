@@ -2,10 +2,11 @@
 
 A full-stack school management platform for handling students, teachers, attendance, and fees.
 
-## 📌 Project Status
+## 📌 Project Statu Witg Rge nefiwhhfidsa
 🚧 In active development
 
 ## 🏗️ Tech Stack
+
 
 | Layer     | Technology                     |
 |-----------|--------------------------------|
@@ -13,5 +14,7 @@ A full-stack school management platform for handling students, teachers, attenda
 | Frontend  | React (Vite)                   |
 | Database  | MongoDB (Mongoose)             |
 | Auth      | JWT                            |
+
+
 
 ## 📁 Project Structure
